@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Submission-1-Jetpackpro</string>
+    <string name="version">V.1.0 WatchMovie</string>
+    <string name="listmovie">WatchTVMovie</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="deskripsi">Deskripsi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
